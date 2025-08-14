@@ -20,6 +20,13 @@ Work in progress...
 |KLT-10B tuner|1|piece|This was my choice because of the symetrical shape (no need to change the project for lefthanded version) and the output jack is mounted in round hole - so no need to alter the output hole for version with and without preamp. I haven't tested it yet but i hope the sound will be at least torelable. Bought mine here:  https://pl.aliexpress.com/item/1005005033861676.html|
 
 # Printed elements
-front body (3 dual color parts)
-neck (1 part)
-fretboard (
+* front body (3 dual color parts or one dual color part for big printers)
+* neck (1 part)
+* fretboard (18 dual color part)
+* backplate (two patrs, single color)
+* bridge (one part dual or single color)
+* gears (4 different parts)
+* pegs (4 patrs - 2 long and 2 short)
+* key (1 part, can be dual color)
+* band strip buttons (2 pieces - TODO: worth remodelling to fit the curvature I suppose)
+* That's it??
