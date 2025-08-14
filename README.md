@@ -19,3 +19,7 @@ Work in progress...
 |6x2 round neodymium magnet| 2|pcs| For holding in place tuning peg|
 |KLT-10B tuner|1|piece|This was my choice because of the symetrical shape (no need to change the project for lefthanded version) and the output jack is mounted in round hole - so no need to alter the output hole for version with and without preamp. I haven't tested it yet but i hope the sound will be at least torelable. Bought mine here:  https://pl.aliexpress.com/item/1005005033861676.html|
 
+# Printed elements
+front body (3 dual color parts)
+neck (1 part)
+fretboard (
